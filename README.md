@@ -6,7 +6,7 @@ This repository contain a xacro file of a mobile robot with a 3 DOF manipulator 
 <img
 	src="/img/RViz.png"
 	title="Environment img"
-	width="600">
+	width="300">
 </p>
 
 **Gazebo Image**
@@ -14,5 +14,5 @@ This repository contain a xacro file of a mobile robot with a 3 DOF manipulator 
 <img
 	src="/img/Gazebo.png"
 	title="Environment img"
-	width="600">
+	width="300">
 </p>
